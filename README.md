@@ -56,7 +56,7 @@ Thank you for connecting with me, PERSON_NAME. Dear PERSON_NAME, I am new to Web
 
 ### HR of a Company
 ```
-Hey PERSON_NAME, I was looking for companies working with ReactJS and Ruby on Rails stack, when I came across your profile as HR Manager of COMPANY_NAME. I thought it would be good to connect with you. So that If the company announces some position for Web Developer Jobs, I may get to know from you.
+Hi PERSON_NAME, I was looking for companies working with React and Node tech stack, when I came across your profile as HR Manager of COMPANY_NAME. I thought it would be good to connect with you. So that If the company announces some position for Web Developer Jobs, I may get to know from you.
 
 I look forward to connecting with you and become part of your professional network. Many thanks, Stay Safe and Be Healthy
 
